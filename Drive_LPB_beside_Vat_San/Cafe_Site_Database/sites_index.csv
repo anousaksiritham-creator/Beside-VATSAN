@@ -1,0 +1,2 @@
+site_id,status,city,village,street,lat,lon,rent_usd_month,rent_usd_year,plot_w_m,plot_d_m,plot_area_m2,floors,rent_usd_m2_month,heritage_zone,cafes_within_100m,cafes_within_400m,contact,key_issue,detail_file,data_date
+LPB-001_Sakkaline_Right-Unit,available,Luang Prabang,Vat Nong (team) / Xieng Thong (OSM),Sakkaline Road,19.895017,102.141195,1200,14400,6,28.5,171,2,7.02,yes,3,22,020 54786699 / 020 56289916,Upper floor included but tenant must build a new rear staircase (needs heritage permit),sites/LPB-001_Sakkaline_Right-Unit.md,2026-11-13
